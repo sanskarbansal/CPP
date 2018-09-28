@@ -4,7 +4,6 @@ using namespace std;
 class graph{
   int vert;
   int** edge;
-  void printh()
 public:
   graph(int vert){
     this -> vert = vert;
@@ -29,7 +28,7 @@ public:
   }
   void print(int sv){
     bool *visited = new bool[vert];
-    printh(sv, visited);
+    print(sv, visited);
     delete [] visited;
   }
 
