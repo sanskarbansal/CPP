@@ -64,7 +64,7 @@ There is a path from any cell to all its neighbouring cells. A neighbour may sha
 
 Input:
 n, m
-n line containing m character
+n number of lines containing m characters
 Output:
 Yes Path Exists|| Path Does Not Exists
 
