@@ -78,7 +78,7 @@ class Fraction{
 		simplify(f3);
 		return f3; 
 	}
-  //Operator overloading of Plus(+) Operator
+  //Operator overloading of Caret(^) Operator
 	Fraction operator ^ (int num){
 		Fraction f; 
 		f.num = pow(this->num, num); 
