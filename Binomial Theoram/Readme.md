@@ -1,12 +1,12 @@
 ### Input:
-**1st Line:** Number of Test Cases.
-**2nd Line:** Number of The Exponent(For Binomaial).
-**3rd Line:** Variable Names for Binomial.
+**1st Line:** Number of Test Cases.</br>
+**2nd Line:** Value of The Exponent in integers(For Binomaial).</br>
+**3rd Line:** Variable Names for Binomial.</br>
 
 ## For example:
-1(Test Case)
-3(Number of Exponent)
-a b (Varibale for Terms) 
+1</br>
+3</br>
+a  b  </br>
 
 this will look like -> (a + b)<sup>3</sup> 
 
