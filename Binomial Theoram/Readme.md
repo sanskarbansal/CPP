@@ -1,4 +1,4 @@
-### Input:
+## Input:
 **1st Line:** Number of Test Cases.</br>
 **2nd Line:** Value of The Exponent in integers(For Binomaial).</br>
 **3rd Line:** Variable Names for Binomial.</br>
