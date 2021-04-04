@@ -11,6 +11,7 @@ Query-3(Denoted by an integer 3): Fetches and returns the data being kept at the
 Query-4(Denoted by an integer 4): Returns the current size of the stack.
 
 Query-5(Denoted by an integer 5): Returns a boolean value denoting whether the stack is empty or not.
+
 */
 #include<bits/stdc++.h>
 using namespace std;
