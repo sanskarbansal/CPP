@@ -23,7 +23,7 @@ bool colorGraph(int src){
             }
             if(colors[x] == 0){
                 q.push(x); 
-                colors[x] = 3-colors[front]; // why 3? because 2+1=3; 
+                colors[x] = 3-colors[front]; 
                 if(colors[x] == 1) b.pb(x+1); 
                 else a.pb(x+1); 
             }
